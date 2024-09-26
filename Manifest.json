@@ -325,7 +325,7 @@
         "++Fortnite+Release-9.40-CL-7326262-Android": "",
         "++Fortnite+Release-9.41-CL-7463579-Android": "",
         "++Fortnite+Release-9.41-CL-7478950-Android": "",
-        "++Fortnite+Release-10.0-CL-7658179-Android": "",
+        "++Fortnite+Release-10.00-CL-7658179-Android": "",
         "++Fortnite+Release-10.10-CL-7955722-Android": "",
         "++Fortnite+Release-10.20-CL-8243923-Android": "",
         "++Fortnite+Release-10.20-CL-8360257-Android": "",
@@ -355,9 +355,9 @@
         "++Fortnite+Release-14.40-CL-14512296-Android": ""
     },
     "Ios" : {
-        "++Fortnite+Release-4.4-CL-4117537-IOS": "", 
-        "++Fortnite+Release-4.4-CL-4126470-IOS": "",
-        "++Fortnite+Release-4.4.x-CL-4132537-IOS": "",
+        "++Fortnite+Release-4.40-CL-4117537-IOS": "", 
+        "++Fortnite+Release-4.40-CL-4126470-IOS": "",
+        "++Fortnite+Release-4.4x-CL-4132537-IOS": "",
         "++Fortnite+Release-6.10-CL-4477651-IOS": "",
         "++Fortnite+Release-13.40-CL-14050091-IOS": ""
     },
